@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 @SpringBootApplication
 @ComponentScan(basePackages = {"com.hackathon.fizzbuzz"})
 public class FizzbuzzApplication {
-	//test
+	
 
 	public static void main(String[] args) {
 		SpringApplication.run(FizzbuzzApplication.class, args);
